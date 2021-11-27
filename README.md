@@ -1,5 +1,5 @@
 
-# Process Scheduling Stimulation
+# Process Scheduling Simulation
 
 ## Steps to run code 
 - Run `chmod +x eval.sh` on terminal inside the Folder to give permission.
